@@ -1,0 +1,38 @@
+---
+title: "Skills"
+format: html
+---
+
+# 🛠️ Skills  
+
+Here are the technical, professional, and transferable skills I bring to the table.  
+
+<div class="card">
+
+## 💻 Technical Skills
+- Office 365 (Word, Excel, PowerPoint)  
+- Tally ERP9  
+- CRM Tools  
+- Data Visualization (Excel Dashboards, Reports)  
+
+</div>
+
+<div class="card">
+
+## 🤝 Professional Skills
+- Customer Service & Client Relations  
+- Financial Consulting & Management  
+- Staff Training & Team Leadership  
+- Strategic Planning & Operations Management  
+
+</div>
+
+<div class="card">
+
+## 🌟 Core Competencies
+- Problem Solving & Critical Thinking  
+- Communication & Negotiation  
+- Attention to Detail  
+- Account Management  
+
+</div>

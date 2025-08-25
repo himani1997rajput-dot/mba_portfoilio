@@ -1,0 +1,100 @@
+/* 🌐 Global Styles */
+body {
+  font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background-color: #f9fafb;
+  color: #333;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+/* 🔵 Navbar */
+.navbar {
+  background-color: #0d6efd !important;
+  font-weight: 600;
+}
+
+.navbar a {
+  color: white !important;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
+/* 📝 Headings */
+h1, h2, h3 {
+  font-weight: 700;
+  color: #222;
+}
+
+h1 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-bottom: 3px solid #0d6efd;
+  padding-bottom: 0.5rem;
+}
+
+/* 👤 Profile Image */
+.profile-pic {
+  display: block;
+  margin: 2rem auto;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 5px solid #0d6efd;
+  box-shadow: 0px 4px 12px rgba(0,0,0,0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.profile-pic:hover {
+  transform: scale(1.05);
+  box-shadow: 0px 6px 16px rgba(0,0,0,0.3);
+}
+
+/* 📦 Centered Content */
+.centered {
+  text-align: center;
+  margin-top: 1.5rem;
+}
+
+/* 🔘 Buttons */
+.btn {
+  display: inline-block;
+  margin: 0.5rem;
+  padding: 0.7rem 1.2rem;
+  border-radius: 30px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.btn-primary {
+  background-color: #0d6efd;
+  color: white;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #0b5ed7;
+}
+
+.btn-outline-primary {
+  background-color: transparent;
+  border: 2px solid #0d6efd;
+  color: #0d6efd;
+}
+
+.btn-outline-primary:hover {
+  background-color: #0d6efd;
+  color: white;
+}
+
+/* 📱 Responsive */
+@media (max-width: 768px) {
+  .profile-pic {
+    width: 150px;
+    height: 150px;
+  }
+}

@@ -1,0 +1,35 @@
+---
+title: "Projects"
+format: html
+---
+
+# 🚀 Projects & Case Studies  
+
+A selection of my work showcasing leadership, problem-solving, and financial expertise.  
+
+<div class="card">
+
+## 📊 CRM System Implementation
+- Implemented a new **CRM system** at HDFC Bank.  
+- Improved customer response times by **20%**.  
+- Increased customer satisfaction scores by **25%**.  
+
+</div>
+
+<div class="card">
+
+## 🏦 Financial Literacy Program
+- Led a **cross-functional team** to design and launch a literacy program.  
+- Boosted client engagement.  
+- Resulted in **10% more new account openings** in 6 months.  
+
+</div>
+
+<div class="card">
+
+## 📈 Client Account Portfolio Management
+- Oversaw a portfolio of **200+ client accounts**.  
+- Boosted retention rates by **15%** in the first year.  
+- Achieved this through individualized care and proactive communication.  
+
+</div>

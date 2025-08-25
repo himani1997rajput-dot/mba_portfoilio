@@ -1,0 +1,17 @@
+---
+title: "Welcome"
+format: html
+---
+
+# Welcome
+
+## 👋 Hi, I’m Himani Rajput
+
+MBA (Business Analytics) student at **University Canada West (2024–2025)** with 4 years of professional experience in **Business Banking Operations** and a current supervisory role in the food industry.  
+
+I specialize in **Business Analytics, Leadership, and Operations Management**.  
+This portfolio highlights my background, skills, and projects.  
+
+---
+
+![](himani.jpg){.profile-pic}

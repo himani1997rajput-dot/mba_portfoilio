@@ -1,0 +1,27 @@
+---
+title: "Contact"
+format: html
+---
+
+# 📬 Get in Touch  
+
+I’d love to connect! Whether it’s for collaborations, opportunities, or just a friendly hello — feel free to reach out through any of the channels below.  
+
+<div class="card">
+
+### 📧 Email  
+<a href="mailto:rajputhimani96@gmail.com">rajputhimani96@gmail.com</a>  
+
+### 📱 Phone  
+604-690-3415  
+
+### 💼 LinkedIn  
+<a href="https://linkedin.com/in/himani-rajput" target="_blank">linkedin.com/in/himani-rajput</a>  
+
+### 📍 Location  
+Surrey, BC, Canada  
+
+</div>
+
+---
+

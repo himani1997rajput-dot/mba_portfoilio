@@ -1,0 +1,70 @@
+---
+title: "Resume"
+format: html
+---
+
+# 💼 Resume  
+
+Here is a summary of my education, professional experience, and skills.  
+You can also download my full PDF resume below.
+
+<div style="text-align:center; margin: 20px 0;">
+  <a class="btn" href="Himani_Rajput_Resume.pdf" download>
+    📄 Download Full Resume (PDF)
+  </a>
+</div>
+
+---
+
+## 👩‍🎓 Education  
+
+- **Master of Business Administration (MBA) – Finance**  
+  *University Canada West, Vancouver (2024 – Present)*  
+
+- **Bachelor of Commerce – Finance & Management**  
+  *Hemwati Nandan Bahuguna Garhwal University, India (2015 – 2018)*  
+
+---
+
+## 💼 Work Experience  
+
+### Authorized Sales Agent | Royal Legacy Marketing, Richmond, Canada (May 2024 – Jul 2024)  
+- Managed client portfolios, answered queries, and sold Rogers products.  
+- Conducted cold calling and direct interactions with customers.  
+- Provided training to new hires.  
+
+### Deputy Manager | HDFC Bank, India (Sep 2022 – Feb 2024)  
+- Served 100+ clients daily with tailored financial solutions.  
+- Leveraged CRM software to streamline client follow-ups, improving satisfaction.  
+- Transitioned from teller role to welcome desk, pitching third-party products.  
+- Resolved client grievances and product/service-related queries.  
+
+### Relationship Management Executive | Federal Bank Financial Services, India (Feb 2021 – Sep 2022)  
+- Responded to consumer inquiries and maintained client relationships.  
+- Oversaw loan processing, branch cash management, and reconciliation statements.  
+- Ensured customers were informed of new financial products.  
+
+### Customer Service Executive | Muthoot Fincorp Ltd, India (Sep 2018 – Feb 2021)  
+- Managed daily branch operations and reconciliations.  
+- Sold third-party financial products (health insurance, home insurance).  
+- Supported customers with account and financial service queries.  
+
+---
+
+## 🏆 Key Accomplishments  
+- Oversaw 200+ client accounts, achieving **15% higher retention** in the first year.  
+- Implemented a new CRM system, improving response times by **20%** and satisfaction by **25%**.  
+- Led a financial literacy program, increasing new account openings by **10%** in six months.  
+
+---
+
+## 🔑 Core Skills  
+- Customer Service | Financial Management | CRM Software  
+- Communication | Problem-Solving | Account Management | Attention to Detail  
+
+---
+
+## 💻 Technical Skills  
+- Office 365 (Word, Excel, PowerPoint)  
+- Tally ERP9  
+- CRM Tools  

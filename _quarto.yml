@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - himani.jpg
+    - Himani_Rajput_Resume.pdf
+    - style.css
+
+website:
+  title: "Himani Rajput - Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: resume.qmd
+        text: Resume
+      - href: skills.qmd
+        text: Skills
+      - href: projects.qmd
+        text: Projects
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: cosmo
+    css: style.css
+    embed-resources: true   # 👈 makes pages fully self-contained
